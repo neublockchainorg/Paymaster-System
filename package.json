@@ -1,0 +1,18 @@
+{
+  "name": "paymaster-system",
+  "version": "1.0.0",
+  "description": "## https://dheeraj12.notion.site/Paymaster-System-Automating-Fee-Coverage-for-Eligible-Customers-2fa85081fde64ae988c9f2b5b3cf968e?pvs=4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.19.4"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1"
+  }
+}
